@@ -1,0 +1,39 @@
+/* Main CSS */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  padding: 1rem;
+}
+
+title {
+  font-size: 1.125rem;
+  color: #20293a;
+}
+
+body {
+  font-size: 0.875rem;
+  color: #6c727f;
+}
+
+img {
+  background-color: #e6d6fc;
+}
+
+p {
+  font-size: 0.75rem;
+  color: #6c727f;
+}
+
+.tag {
+  font-size: 0.25rem;
+  color: #883ae1;
+  background-color: #e6d6fc;
+}
